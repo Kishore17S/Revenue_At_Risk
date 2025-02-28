@@ -1,0 +1,5 @@
+python -m venv venv
+.\venv\Scripts\activate
+pip install streamlit pandas joblib numpy matplotlib
+pip install pandas scikit-learn joblib numpy 
+streamlit run app.py  
